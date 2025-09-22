@@ -1,0 +1,9 @@
+﻿  admin.cpp
+  authorizationForm.cpp
+C:\Users\User\source\repos\EducationalControlProgram\EducationalControlProgram\authorizationForm.cpp(6,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  student.cpp
+  student_environment.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  admin.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  EducationalControlProgram.vcxproj -> C:\Users\User\source\repos\EducationalControlProgram\Debug\EducationalControlProgram.exe

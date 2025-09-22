@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\EducationalControlProgram\EducationalControlProgram\Debug\EducationalControlProgram.admin.resources
+C:\Users\User\source\repos\EducationalControlProgram\EducationalControlProgram\Debug\EducationalControlProgram.authorizationForm.resources
+C:\Users\User\source\repos\EducationalControlProgram\EducationalControlProgram\Debug\EducationalControlProgram.student.resources
+C:\Users\User\source\repos\EducationalControlProgram\EducationalControlProgram\Debug\EducationalControlProgram.student_environment.resources
+C:\Users\User\source\repos\EducationalControlProgram\EducationalControlProgram\Debug\EducationalControlProgram.vcxproj.GenerateResource.cache
+C:\Users\User\source\repos\EducationalControlProgram\EducationalControlProgram\Debug\EducationalControlProgram.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\EducationalControlProgram\EducationalControlProgram\Debug\EducationalControlProgram.vcxproj.SuggestedBindingRedirects.cache

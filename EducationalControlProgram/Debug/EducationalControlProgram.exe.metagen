@@ -1,0 +1,46 @@
+  EducationalControlProgram.admin.resources - Embedded, ContainedInManifestFile, 
+  EducationalControlProgram.authorizationForm.resources - Embedded, ContainedInManifestFile, 
+  EducationalControlProgram.student.resources - Embedded, ContainedInManifestFile, 
+  EducationalControlProgram.student_environment.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly EducationalControlProgram, Version=0.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualBasic, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class EducationalControlProgram.admin: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class EducationalControlProgram.student: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 min : Public
+    Int32 sec : Public
+  Methods:
+    createElement(Tdata): PrivateScope, Public, HideBySig
+    addToEnd(testing*): PrivateScope, Public, HideBySig
+    readFromFile(): PrivateScope, Public, HideBySig
+    displayElement(RadioButton[], testing*): PrivateScope, Public, HideBySig
+    nextQuestion(testing*, testing*): PrivateScope, Public, HideBySig
+    previousQuestion(testing*, testing*): PrivateScope, Public, HideBySig
+    deleteCurrentElement(testing*): PrivateScope, Public, HideBySig
+    clearRadioButton(RadioButton[]): PrivateScope, Public, HideBySig
+    MinAndSec(Int32*, Int32*): PrivateScope, Public, HideBySig
+Class EducationalControlProgram.student_environment: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class EducationalControlProgram.authorizationForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
